@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorPrimaryDark">#000</color>
+    <color name="colorAccent">#2D5B6B</color>
+    <color name="themeColor">#2D5B6B</color>
+    <color name="register_bg_color">#8CAB87</color>
+
+    <color name="darkTextColor">#020000</color>
+    <color name="contentTextColor">#020000</color>
+    <color name="register_bk_color">#8CAB87</color>
+    <color name="login_bk_color">#8CAB87</color>
+    <color name="whiteTextColor">#B7EBB9</color>
+    <color name="primaryTextColor">#B7EBB9</color>
+
+
+</resources>
